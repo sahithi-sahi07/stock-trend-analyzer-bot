@@ -12,7 +12,6 @@ The project leverages machine learning algorithms for predictive modeling and pr
 - **Trend Analysis**: Identifies significant patterns in stock performance based on technical indicators.
 - **User-Friendly Interface**: Built with **Streamlit**, allowing users to input stock details and view real-time predictions.
 - **Efficient Storage**: Trained models are saved and reused using the `pickle` library, ensuring fast response times.
-- **Data Visualization**: Interactive charts and graphs to help users understand stock trends.
 
 ---
 
@@ -20,8 +19,6 @@ The project leverages machine learning algorithms for predictive modeling and pr
 - **Languages**: Python
 - **Libraries**:
   - `pandas` and `NumPy` for data manipulation
-  - `scikit-learn` for machine learning model development
-  - `matplotlib` and `seaborn` for data visualization
 - **Framework**: Streamlit for web application development
 - **Environment**: Jupyter Notebook for data preprocessing and experimentation
 - **Data Storage**: `pickle` for model serialization
